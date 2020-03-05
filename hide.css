@@ -1,0 +1,5 @@
+/* Facebook IDs for stories containers */
+#stories_pagelet_below_composer,
+#MStoriesTray {
+	display: none !important;
+}
